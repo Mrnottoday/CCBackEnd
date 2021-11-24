@@ -1,0 +1,15 @@
+C:\Tranzact\CC-BackEnd\AddressBook\AddressBook.Access\bin\Debug\net5.0\AddressBook.Access.deps.json
+C:\Tranzact\CC-BackEnd\AddressBook\AddressBook.Access\bin\Debug\net5.0\AddressBook.Access.runtimeconfig.json
+C:\Tranzact\CC-BackEnd\AddressBook\AddressBook.Access\bin\Debug\net5.0\AddressBook.Access.runtimeconfig.dev.json
+C:\Tranzact\CC-BackEnd\AddressBook\AddressBook.Access\bin\Debug\net5.0\AddressBook.Access.dll
+C:\Tranzact\CC-BackEnd\AddressBook\AddressBook.Access\bin\Debug\net5.0\ref\AddressBook.Access.dll
+C:\Tranzact\CC-BackEnd\AddressBook\AddressBook.Access\bin\Debug\net5.0\AddressBook.Access.pdb
+C:\Tranzact\CC-BackEnd\AddressBook\AddressBook.Access\obj\Debug\net5.0\AddressBook.Access.csproj.AssemblyReference.cache
+C:\Tranzact\CC-BackEnd\AddressBook\AddressBook.Access\obj\Debug\net5.0\AddressBook.Access.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tranzact\CC-BackEnd\AddressBook\AddressBook.Access\obj\Debug\net5.0\AddressBook.Access.AssemblyInfoInputs.cache
+C:\Tranzact\CC-BackEnd\AddressBook\AddressBook.Access\obj\Debug\net5.0\AddressBook.Access.AssemblyInfo.cs
+C:\Tranzact\CC-BackEnd\AddressBook\AddressBook.Access\obj\Debug\net5.0\AddressBook.Access.csproj.CoreCompileInputs.cache
+C:\Tranzact\CC-BackEnd\AddressBook\AddressBook.Access\obj\Debug\net5.0\AddressBook.Access.dll
+C:\Tranzact\CC-BackEnd\AddressBook\AddressBook.Access\obj\Debug\net5.0\ref\AddressBook.Access.dll
+C:\Tranzact\CC-BackEnd\AddressBook\AddressBook.Access\obj\Debug\net5.0\AddressBook.Access.pdb
+C:\Tranzact\CC-BackEnd\AddressBook\AddressBook.Access\obj\Debug\net5.0\AddressBook.Access.genruntimeconfig.cache
